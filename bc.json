@@ -46,7 +46,7 @@
         {
             "slug": "02-Hello-World",
             "title": "02-Hello-World",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Hello-World",
             "translations": [
                 "es",
@@ -57,7 +57,7 @@
         {
             "slug": "03.1-Access-and-retrieve",
             "title": "03.1-Access-and-retrieve",
-            "done": false,
+            "done": true,
             "path": "exercises/03.1-Access-and-retrieve",
             "translations": [
                 "es",
@@ -68,7 +68,7 @@
         {
             "slug": "03.2-Retrieve-Items",
             "title": "03.2-Retrieve-Items",
-            "done": false,
+            "done": true,
             "path": "exercises/03.2-Retrieve-Items",
             "translations": [
                 "es",
@@ -79,7 +79,7 @@
         {
             "slug": "04.1-Print-the-last-one",
             "title": "04.1-Print-the-last-one",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-Print-the-last-one",
             "translations": [
                 "es",
@@ -90,7 +90,7 @@
         {
             "slug": "05.1-Loop-from-one-to-seventeen",
             "title": "05.1-Loop-from-one-to-seventeen",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-Loop-from-one-to-seventeen",
             "translations": [
                 "es",
@@ -101,7 +101,7 @@
         {
             "slug": "05.2-Loop-from-seven-to-twelve",
             "title": "05.2-Loop-from-seven-to-twelve",
-            "done": false,
+            "done": true,
             "path": "exercises/05.2-Loop-from-seven-to-twelve",
             "translations": [
                 "es",
@@ -112,7 +112,7 @@
         {
             "slug": "05.3-Add-items-to-array",
             "title": "05.3-Add-items-to-array",
-            "done": false,
+            "done": true,
             "path": "exercises/05.3-Add-items-to-array",
             "translations": [
                 "es",
@@ -123,7 +123,7 @@
         {
             "slug": "05.4-Add-items-to-array-looping",
             "title": "05.4-Add-items-to-array-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/05.4-Add-items-to-array-looping",
             "translations": [
                 "es",
@@ -134,7 +134,7 @@
         {
             "slug": "06.1-Loop-Array",
             "title": "06.1-Loop-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/06.1-Loop-Array",
             "translations": [
                 "es",
@@ -145,7 +145,7 @@
         {
             "slug": "06.2-Loop-from-the-top",
             "title": "06.2-Loop-from-the-top",
-            "done": false,
+            "done": true,
             "path": "exercises/06.2-Loop-from-the-top",
             "translations": [
                 "es",
@@ -156,7 +156,7 @@
         {
             "slug": "06.3-Loop-adding-two",
             "title": "06.3-Loop-adding-two",
-            "done": false,
+            "done": true,
             "path": "exercises/06.3-Loop-adding-two",
             "translations": [
                 "es",
@@ -167,7 +167,7 @@
         {
             "slug": "06.4-Loop-from-the-half-to-the-end",
             "title": "06.4-Loop-from-the-half-to-the-end",
-            "done": false,
+            "done": true,
             "path": "exercises/06.4-Loop-from-the-half-to-the-end",
             "translations": [
                 "es",
@@ -178,7 +178,7 @@
         {
             "slug": "06.5-One-last-looping",
             "title": "06.5-One-last-looping",
-            "done": false,
+            "done": true,
             "path": "exercises/06.5-One-last-looping",
             "translations": [
                 "es",
@@ -189,7 +189,7 @@
         {
             "slug": "07.1-Finding-Waldo",
             "title": "07.1-Finding-Waldo",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-Finding-Waldo",
             "translations": [
                 "es",
@@ -200,7 +200,7 @@
         {
             "slug": "07.2-Letter-Counter",
             "title": "07.2-Letter-Counter",
-            "done": false,
+            "done": true,
             "path": "exercises/07.2-Letter-Counter",
             "translations": [
                 "es",
@@ -211,7 +211,7 @@
         {
             "slug": "07.3-Flip-Array",
             "title": "07.3-Flip-Array",
-            "done": false,
+            "done": true,
             "path": "exercises/07.3-Flip-Array",
             "translations": [
                 "es",
@@ -222,7 +222,7 @@
         {
             "slug": "08.1-Mixed-array",
             "title": "08.1-Mixed-array",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Mixed-array",
             "translations": [
                 "es",
@@ -233,7 +233,7 @@
         {
             "slug": "08.2-Count-On",
             "title": "08.2-Count-On",
-            "done": false,
+            "done": true,
             "path": "exercises/08.2-Count-On",
             "translations": [
                 "es",
@@ -244,7 +244,7 @@
         {
             "slug": "08.3-Sum-all-items",
             "title": "08.3-Sum-all-items",
-            "done": false,
+            "done": true,
             "path": "exercises/08.3-Sum-all-items",
             "translations": [
                 "es",
@@ -255,7 +255,7 @@
         {
             "slug": "09.1-forEach-loop",
             "title": "09.1-forEach-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/09.1-forEach-loop",
             "translations": [
                 "es",
@@ -266,7 +266,7 @@
         {
             "slug": "10.1-Everything-is-awesome",
             "title": "10.1-Everything-is-awesome",
-            "done": false,
+            "done": true,
             "path": "exercises/10.1-Everything-is-awesome",
             "translations": [
                 "es",
@@ -277,7 +277,7 @@
         {
             "slug": "11-Do-while",
             "title": "11-Do-while",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Do-while",
             "translations": [
                 "es",
@@ -288,7 +288,7 @@
         {
             "slug": "12-Delete-element",
             "title": "12-Delete-element",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Delete-element",
             "translations": [
                 "es",
@@ -299,7 +299,7 @@
         {
             "slug": "13-Merge-arrays",
             "title": "13-Merge-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Merge-arrays",
             "translations": [
                 "es",
@@ -310,7 +310,7 @@
         {
             "slug": "14-Divide-and-Conquer",
             "title": "14-Divide-and-Conquer",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Divide-and-Conquer",
             "translations": [
                 "es",
@@ -321,7 +321,7 @@
         {
             "slug": "15-Max-integer-from-array",
             "title": "15-Max-integer-from-array",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Max-integer-from-array",
             "translations": [
                 "es",
@@ -332,7 +332,7 @@
         {
             "slug": "16-Foreach-min-val",
             "title": "16-Foreach-min-val",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Foreach-min-val",
             "translations": [
                 "es",
@@ -354,7 +354,7 @@
         {
             "slug": "18-Nested-arrays",
             "title": "18-Nested-arrays",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Nested-arrays",
             "translations": [
                 "es",
@@ -376,7 +376,7 @@
         {
             "slug": "20.1-Map-an-array",
             "title": "20.1-Map-an-array",
-            "done": false,
+            "done": true,
             "path": "exercises/20.1-Map-an-array",
             "translations": [
                 "es",
@@ -387,7 +387,7 @@
         {
             "slug": "20.2-More-mapping",
             "title": "20.2-More-mapping",
-            "done": false,
+            "done": true,
             "path": "exercises/20.2-More-mapping",
             "translations": [
                 "es",
@@ -398,7 +398,7 @@
         {
             "slug": "20.3-Map-with-function-inside-variable",
             "title": "20.3-Map-with-function-inside-variable",
-            "done": false,
+            "done": true,
             "path": "exercises/20.3-Map-with-function-inside-variable",
             "translations": [
                 "es",
@@ -409,7 +409,7 @@
         {
             "slug": "20.4-Map-data-types",
             "title": "20.4-Map-data-types",
-            "done": false,
+            "done": true,
             "path": "exercises/20.4-Map-data-types",
             "translations": [
                 "es",
@@ -420,7 +420,7 @@
         {
             "slug": "20.5-Map-arrays-of-objects",
             "title": "20.5-Map-arrays-of-objects",
-            "done": false,
+            "done": true,
             "path": "exercises/20.5-Map-arrays-of-objects",
             "translations": [
                 "es",
@@ -431,7 +431,7 @@
         {
             "slug": "20.6-Yes-and-no",
             "title": "20.6-Yes-and-no",
-            "done": false,
+            "done": true,
             "path": "exercises/20.6-Yes-and-no",
             "translations": [
                 "es",
@@ -442,7 +442,7 @@
         {
             "slug": "21.2-Filter-done-tasks",
             "title": "21.2-Filter-done-tasks",
-            "done": false,
+            "done": true,
             "path": "exercises/21.2-Filter-done-tasks",
             "translations": [
                 "es",
@@ -453,7 +453,7 @@
         {
             "slug": "21.3-Filter-list",
             "title": "21.3-Filter-list",
-            "done": false,
+            "done": true,
             "path": "exercises/21.3-Filter-list",
             "translations": [
                 "es",
@@ -464,7 +464,7 @@
         {
             "slug": "22-Matrix-Builder",
             "title": "22-Matrix-Builder",
-            "done": false,
+            "done": true,
             "path": "exercises/22-Matrix-Builder",
             "translations": [
                 "es",
@@ -475,7 +475,7 @@
         {
             "slug": "23-Parking-Lot",
             "title": "23-Parking-Lot",
-            "done": false,
+            "done": true,
             "path": "exercises/23-Parking-Lot",
             "translations": [
                 "es",
@@ -486,7 +486,7 @@
         {
             "slug": "24-Making-a-ul",
             "title": "24-Making-a-ul",
-            "done": false,
+            "done": true,
             "path": "exercises/24-Making-a-ul",
             "translations": [
                 "es",

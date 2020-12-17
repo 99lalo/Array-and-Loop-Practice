@@ -10,3 +10,5 @@ let tasks = [
 ];
 
 //your code here
+const tosk = tasks.filter(value => value.done == true);
+console.log(tosk)

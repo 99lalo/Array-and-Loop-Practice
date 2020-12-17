@@ -2,7 +2,8 @@ var people = ['juan','ana','michelle','daniella','stefany','lucy','barak'];
 
 function deletePerson(personName)
 {
-	//your code here
+    let newArray = people.filter(pipol => pipol !== personName);
+    return newArray;
 }
 
 console.log(deletePerson('daniella'));
